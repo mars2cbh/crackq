@@ -15,4 +15,4 @@ Flask-SQLAlchemy==2.4.0
 flask-talisman==0.7.0
 pysaml2==4.8.0
 flask-Login==0.4.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
