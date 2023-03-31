@@ -1,7 +1,7 @@
 configparser==3.5.0
 Flask==1.0.2
 Flask-RESTful==0.3.6
-redis==3.0.1
+redis==4.4.4
 rq==1.0
 marshmallow==2.19.2
 pytest==4.0.2
